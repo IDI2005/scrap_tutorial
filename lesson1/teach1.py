@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 
 
-with open("blank\index.html", encoding="utf-8") as site:
+with open("blank\index2.html", encoding="utf-8") as site:
     site_html = site.read()
 # print(site_html)
 
